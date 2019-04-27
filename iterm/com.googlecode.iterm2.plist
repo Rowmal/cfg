@@ -10,8 +10,6 @@
 	<integer>1</integer>
 	<key>AppleWindowTabbingMode</key>
 	<string>manual</string>
-	<key>CGFontRenderingFontSmoothingDisabled</key>
-	<false/>
 	<key>Custom Color Presets</key>
 	<dict>
 		<key>seoul256</key>
@@ -232,7 +230,7 @@
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
 	<key>NSFontPanelAttributes</key>
-	<string>1, 4</string>
+	<string>1, 0</string>
 	<key>NSNavLastRootDirectory</key>
 	<string>~/iterm</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
@@ -252,7 +250,7 @@
 	gAKACoAN0xAJChEVGVdOUy5rZXlzoxITFIADgASABaMWFxiABoAHgAiACVpJZGVudGlm
 	aWVyVVdpZHRoVkhpZGRlblEwI0BowAAAAAAACNIhIiMkWiRjbGFzc25hbWVYJGNsYXNz
 	ZXNcTlNEaWN0aW9uYXJ5oiMlWE5TT2JqZWN00xAJCicrGaMSExSAA4AEgAWjLC0YgAuA
-	DIAIgAlRMSNAc7Gdsi0OVtIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
+	DIAIgAlRMSNAdKGdsi0OVtIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
 	TlNLZXllZEFyY2hpdmVy0Tg5VUFycmF5gAEACAARABoAIwAtADIANwBGAEwAUQBcAGMA
 	ZgBoAGoAbABzAHsAfwCBAIMAhQCJAIsAjQCPAJEAnACiAKkAqwC0ALUAugDFAM4A2wDe
 	AOcA7gDyAPQA9gD4APwA/gEAAQIBBAEGAQ8BFAEjAScBLwFBAUQBSgAAAAAAAAIBAAAA
@@ -274,11 +272,13 @@
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>294 62 1011 476 0 0 1440 877 </string>
+	<string>304 180 741 213 0 0 1280 777 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>-1168 795 796 486 -1920 257 1920 1057 </string>
+	<string>269 81 796 486 0 0 1280 777 </string>
+	<key>NSWindow Frame com.apple.typography_panel_Menlo-Regular</key>
+	<string>212 484 260 36 0 0 1280 777 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>-1920 257 1920 1057 -1920 257 1920 1057 </string>
+	<string>0 0 1280 777 0 0 1280 777 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -857,7 +857,7 @@
 			<key>Non-ASCII Ligatures</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>IBMPlexMono 15</string>
+			<string>IBMPlexMono-Text 15</string>
 			<key>Option Key Sends</key>
 			<integer>0</integer>
 			<key>Prompt Before Closing 2</key>
@@ -933,21 +933,9 @@
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
 	<key>NoSyncInstallationId</key>
-	<string>F469285A-6F61-4925-8A39-63DBCF60E0C3</string>
-	<key>NoSyncLastTipTime</key>
-	<real>576307083.08843601</real>
-	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
-	<true/>
-	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
-	<integer>0</integer>
+	<string>043A5FF0-6855-4A54-B749-4187AC0927FA</string>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
-	<real>576241395.42945397</real>
-	<key>NoSyncTipsToNotShow</key>
-	<array>
-		<string>000</string>
-		<string>000</string>
-		<string>0000</string>
-	</array>
+	<real>577943184.13748002</real>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>
@@ -988,11 +976,11 @@
 	<key>SUFeedAlternateAppNameKey</key>
 	<string>iTerm</string>
 	<key>SUFeedURL</key>
-	<string>https://iterm2.com/appcasts/final.xml?shard=65</string>
+	<string>https://iterm2.com/appcasts/final.xml?shard=27</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2019-04-06T11:22:27Z</date>
+	<date>2019-04-26T07:20:21Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>TabStyleWithAutomaticOption</key>
@@ -1000,7 +988,7 @@
 	<key>WordCharacters</key>
 	<string>/-+\~_.</string>
 	<key>iTerm Version</key>
-	<string>3.2.8</string>
+	<string>3.2.9</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>0</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
