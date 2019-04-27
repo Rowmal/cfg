@@ -3,3 +3,5 @@
 	email = rowmal@protonmail.com
 [credential]
 	helper = osxkeychain
+[core]
+	excludesfile = /Users/rowmal/.gitignore
