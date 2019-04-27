@@ -1,3 +1,5 @@
 [user]
 	name = rowmal
 	email = rowmal@protonmail.com
+[credential]
+	helper = osxkeychain
