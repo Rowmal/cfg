@@ -69,6 +69,7 @@ source $ZSH/oh-my-zsh.sh
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
+export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/jre"
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
