@@ -30,9 +30,9 @@ set number
 highlight ColorColumn ctermbg = 238
 let &colorcolumn = join(range(121,999),",")
 
-" Reload vim-colemak to remap any overidden keys
-silent! source "$HOME/.vim/plugged/vim-colemak/plugin/colemak.vim"
-
 " Lightline
 set noshowmode
 let g:lightline = { 'colorscheme': 'seoul256' }
+
+" Reload vim-colemak to remap any overidden keys
+silent! source "$HOME/.vim/plugged/vim-colemak/plugin/colemak.vim"
